@@ -121,3 +121,7 @@ D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tra
 D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.csproj.CopyComplete
 D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.exe
 D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.pdb
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Student Activity Tracker.exe.manifest
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Student Activity Tracker.application
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.exe.manifest
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.application
