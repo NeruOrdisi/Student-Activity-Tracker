@@ -80,3 +80,44 @@ D:\For Programming\VisualStudio C#\Student Activity Tracker\obj\Debug\Student Ac
 D:\For Programming\VisualStudio C#\Student Activity Tracker\obj\Debug\Student Activity Tracker.csproj.CopyComplete
 D:\For Programming\VisualStudio C#\Student Activity Tracker\obj\Debug\Student Activity Tracker.exe
 D:\For Programming\VisualStudio C#\Student Activity Tracker\obj\Debug\Student Activity Tracker.pdb
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Student Activity Tracker.exe.config
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Student Activity Tracker.exe
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Student Activity Tracker.pdb
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\BouncyCastle.Crypto.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Google.Protobuf.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\K4os.Compression.LZ4.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\K4os.Hash.xxHash.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\MySql.Data.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Buffers.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Memory.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Numerics.Vectors.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Ubiety.Dns.Core.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\ZstdNet.dll
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Google.Protobuf.pdb
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\Google.Protobuf.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\K4os.Compression.LZ4.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\K4os.Hash.xxHash.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\MySql.Data.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Buffers.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Memory.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Numerics.Vectors.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.csproj.AssemblyReference.cache
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.csproj.SuggestedBindingRedirects.cache
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.Dashboard.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.InputAttendance.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.StudentList.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.Login.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.Frm_Main.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.Sanction.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.EventList.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.StudentViewer.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student_Activity_Tracker.Properties.Resources.resources
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.csproj.GenerateResource.cache
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.csproj.CoreCompileInputs.cache
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.csproj.CopyComplete
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.exe
+D:\For Programming\VisualStudio C#\Student Activity Tracker\Student Activity Tracker\obj\Debug\Student Activity Tracker.pdb

@@ -116,7 +116,7 @@ namespace Student_Activity_Tracker
 
         private void BtnQuick_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("Quick Reference Guide.pdf");
+            System.Diagnostics.Process.Start("https://github.com/NeruOrdisi/student_activity_tracker/files/8862950/Quick.Reference.Guide.pdf");
         }
     }
 }
