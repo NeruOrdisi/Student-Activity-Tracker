@@ -116,7 +116,7 @@ namespace Student_Activity_Tracker
 
         private void BtnQuick_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("D:/For Programming/VisualStudio C#/Student Activity Tracker/Quick Reference Guide.pdf");
+            System.Diagnostics.Process.Start("Quick Reference Guide.pdf");
         }
     }
 }
